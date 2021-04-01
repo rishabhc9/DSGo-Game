@@ -26,3 +26,6 @@ For GUI ( Graphical User Interface:
 ```bash
 python3 main.py
 ```
+## License
+
+Licensed Under [MIT LICENSE](LICENSE)
