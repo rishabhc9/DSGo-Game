@@ -1,6 +1,9 @@
 # DSGo
 Data Structures Learning and Quiz Game
 
+## Screenshots
+<img width="1079" alt="Screenshot 2021-04-01 at 1 58 27 PM" src="https://user-images.githubusercontent.com/61555936/113273735-92f5e580-92fa-11eb-9a85-6a399c980140.png">
+
 ## Installation
 Run The Following Commands To install the Requirements.
 ```bash
