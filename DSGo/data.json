@@ -1,0 +1,76 @@
+[
+    {
+        "1": "The Breadth First Search traversal of a graph will result into?",
+        "2": "In BFS, how many times a node is visited?",
+        "3": "Which of the following is not an application of Breadth First Search",
+        "4": "Depth First Search is equivalent to which of the traversal in the Binary Trees",
+        "5": "Which of the following is not an application of Depth First Search?",
+        "6": "If locality is a concern, you can use ................ to traverse the graph?",
+        "7": "What is the best case for linear search?",
+        "8": "Which of the following is a disadvantage of linear search?",
+        "9": "Is the space consumed by the linear search(recursive) and linear search(iterative) same?",
+        "10": "What is the recurrence relation for the linear search recursive algorithm?"
+    },
+    {
+        "1": [
+            "Linked List",
+            "Tree",
+            "Graph with black edges",
+            "Arrays"
+        ],
+        "2": [
+            "Once",
+            "Twice",
+            "Equivalent to number of indegree of the node",
+            "Thrice"
+        ],
+        "3": [
+            "Finding shortest path between two nodes",
+            "Finding bipartiteness of a graph",
+            "GPS navigation system",
+            "Path Finding"
+        ],
+        "4": [
+            "Pre-order Traversal",
+            "Post-order Traversalr",
+            "Level-order Traversal",
+            "In-order Traversal"
+        ],
+        "5": [
+            "For generating topological sort of a graph",
+            "For generating Strongly Connected Components of a directed graph",
+            "Detecting cycles in the graph",
+            "Peer to Peer Networks"
+        ],
+        "6": [
+            "Breadth First Search",
+            "Depth First Search",
+            "Either BFS or DFS",
+            "None of these"
+        ],
+        "7": [
+            "O(nlogn)",
+            "O(logn)",
+            "O(n)",
+            "O(1)"
+        ],
+        "8": [
+            "Requires more space",
+            "Greater time complexities compared to other searching algorithms",
+            "Not easy to understand",
+            "Not easy to implement"
+        ],
+        "9": [
+            "No, recursive algorithm consumes more space",
+            "No, recursive algorithm consumes less space",
+            "Yes",
+            "Nothing can be said"
+        ],
+        "10": [
+            "T(n-2)+c",
+            "2T(n-1)+c",
+            "T(n-1)+c",
+            "T(n+1)+c"
+        ]
+    }
+]
