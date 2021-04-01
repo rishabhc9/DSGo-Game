@@ -26,6 +26,11 @@ For GUI ( Graphical User Interface:
 ```bash
 python3 main.py
 ```
+## Authors
+Amitabh Dixit-[amitabhdixit](https://github.com/amitabhdixit)
+
+Daksh Ailavadi-[Daksh2706](https://github.com/Daksh2706)
+
 ## License
 
 Licensed Under [MIT LICENSE](LICENSE)
