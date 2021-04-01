@@ -24,5 +24,5 @@ python main.py
 
 For GUI ( Graphical User Interface:
 ```bash
-python3 imghide-gui.py
+python3 main.py
 ```
