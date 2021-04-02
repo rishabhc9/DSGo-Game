@@ -33,6 +33,10 @@ Aayush Dani-[Aayush-Dani](https://github.com/Aayush-Dani)
 
 Daksh Ailawadi-[Daksh2706](https://github.com/Daksh2706)
 
+Rishabh Chopda-[rishabhc9](https://github.com/rishabhc9)
+
+Shruti Dubey- [shrutiupkd](https://github.com/shrutiupkd)
+
 ## License
 
 Licensed Under [MIT LICENSE](LICENSE)
