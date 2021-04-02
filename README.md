@@ -27,15 +27,15 @@ For GUI ( Graphical User Interface:
 python3 main.py
 ```
 ## Authors
-Amitabh Dixit-[amitabhdixit](https://github.com/amitabhdixit)
+Amitabh Dixit-[@amitabhdixit](https://github.com/amitabhdixit)
 
-Aayush Dani-[Aayush-Dani](https://github.com/Aayush-Dani)
+Aayush Dani-[@Aayush-Dani](https://github.com/Aayush-Dani)
 
-Daksh Ailawadi-[Daksh2706](https://github.com/Daksh2706)
+Daksh Ailawadi-[@Daksh2706](https://github.com/Daksh2706)
 
-Rishabh Chopda-[rishabhc9](https://github.com/rishabhc9)
+Rishabh Chopda-[@rishabhc9](https://github.com/rishabhc9)
 
-Shruti Dubey- [shrutiupkd](https://github.com/shrutiupkd)
+Shruti Dubey- [@shrutiupkd](https://github.com/shrutiupkd)
 
 ## License
 
