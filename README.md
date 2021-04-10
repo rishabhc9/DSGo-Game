@@ -37,7 +37,7 @@ Rishabh Chopda-[@rishabhc9](https://github.com/rishabhc9)
 
 Shruti Dubey- [@shrutiupkd](https://github.com/shrutiupkd)
 
-Shailja Jadon- [@dhailjajadon](https://github.com/shailjajadon)
+Shailja Jadon- [@shailjajadon](https://github.com/shailjajadon)
 
 ## License
 
